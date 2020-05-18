@@ -1,10 +1,14 @@
 # Development Strategy
 
-> `name-of-project`
+> `acme-web-design`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+- This project is about to help anyone would like to creat an amazing and professional websites
+
+ <!--why would they want to use it?-->
+
+- It will help you have more visibility with an affordable prices
 
 ## Wireframe
 
