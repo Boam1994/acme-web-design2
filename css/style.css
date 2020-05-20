@@ -1,0 +1,19 @@
+body{
+    font: 15px 1,5px Arial, Helvetica, Sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+/* global*/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+/* header*/
+header{
+    background: #35424a;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-radius: #e8491d 3px solid;
+}

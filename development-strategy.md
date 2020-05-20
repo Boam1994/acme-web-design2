@@ -28,7 +28,10 @@ __A User can see my initial repository and live demo__
 
 ## 1. User Story: __
 
-__full user story description__
+### full user story description__
+
+I will divide my project into branches.
+Each page would correspond to a branch
 
 ### Repo
 
