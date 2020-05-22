@@ -1,0 +1,129 @@
+body{
+    font: 15px 1,5px Arial, Helvetica, Sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: #f4f4f4;
+}
+/* global*/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+/*header*/
+header{
+    background: #35424a;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #e8491d 3px solid;
+} 
+header a{
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+header ul{
+    margin: 0px;
+    padding-top: 0px
+}
+header li{
+    display: inline-flex;
+    justify-content: flex-end;
+    padding: 0 20px 0 20px;
+    
+}
+header #branding{
+    float: left;
+    margin: 0px
+}
+header nav{
+    float: right;
+    margin-top: 35px;
+}
+.highlight, .current {
+    color: #e8491d;
+    font-weight: bold;
+}
+header a:hover{
+    color: #cccccc;
+    font-weight: bold;
+}
+/*background-img*/
+.background-img{
+    background: url(../images/background.jpg) no-repeat 0 -400px;
+    text-align: center;
+    color: #ffffff;
+    min-height: 400px;
+}
+.background-img h1{
+    font-size: 45px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.background-img p{
+    font-size: 16px;
+}
+.newsletter{
+    background-color: #35424a;
+    color: #ffffff;
+    padding: 15px;
+
+}
+.newsletter h1{
+    float: left;
+}
+.newsletter form{
+    float: right;
+    padding: 25px;
+}
+.button_1{
+    color: #ffffff;
+    background-color: #e8491d;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 38px;
+    border: 0;
+}
+.newsletter input[type="email"]{
+    padding: 4px;
+    width: 250px;
+    height: 25px;
+}
+/* icons */
+
+.icons .container{
+    display: flex;
+    text-align: center;
+}
+.icons{
+    padding-top: 50px;
+}
+footer{
+    background: #e8491d;
+    padding: 25px ;
+    text-align: center;
+}
+
+
+/*
+header nav{
+    display: flex;
+    padding-top: 10px;
+    
+}
+nav ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+nav li{
+    justify-content: space-around;
+}
+header a{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 15px;
+}*/
